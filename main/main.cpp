@@ -21,6 +21,14 @@ int main()
              cout << MyMul(a, b) << endl;
              break;
 
+           case '-':
+             cout << MySub(a, b) << endl;
+             break;
+
+           case '/':
+             cout << MyDiv(a, b) << endl;
+             break;
+
            default:
              cout << "Error!!!!!";
              break;
