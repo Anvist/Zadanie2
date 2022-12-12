@@ -1,13 +1,13 @@
 #include "header.h"
 #include <cmath>
-double MySum(int a, int b)
+double MySum(double a, double b)
 {
-cout << "v razrabotke";
+return a+b;
 }
 
-double MyMul(int a, int b)
+double MyMul(double a, double b)
 {
-cout << "v razrabotke";
+return a*b;
 }
 double MySub(double a, double b)
 {
