@@ -4,8 +4,8 @@ using namespace std;
 // start brach dev
 
 int main()
-{ int a;
-    int b;
+{ double a;
+    double b;
     char op;
     cout << "Enter two operands: ";
       cin >> a >> b;
